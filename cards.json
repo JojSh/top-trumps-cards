@@ -9,6 +9,16 @@
         "endurance": 8
       },
       "description": "A cold-hardened peacable folk living high in icy mountains. These largely stationary people at first glance appear to be frost-mantled shrubbery. In fact they are garbed in a thick dome of fur, unclear if of animal origin or grown of their own bodies. Only their eyes peering out through the musty mass."
+    },
+    {
+      "name": "Mediaums",
+      "stats": {
+        "strength": 2,
+        "speed": 2,
+        "intellect": 7,
+        "endurance": 4
+      },
+      "description": "Not officially recognised by the Wizards guild, mediaums are practitioners of what many consider to be common parlour tricks rather than magic. Reading fortunes and communing with the dead are the most common services being peddled. Their counsel is more frequently sought in less civilized parts of the realm."
     }
   ]
 }
