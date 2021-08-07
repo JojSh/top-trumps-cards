@@ -3,10 +3,11 @@
     {
       "name": "The Fren",
       "stats": {
-        "strength": 8,
+        "strength": 7,
         "speed": 1,
         "intellect": 6,
-        "endurance": 8
+        "endurance": 8,
+        "cunning": 2
       },
       "description": "A cold-hardened peacable folk living high in icy mountains. These largely stationary people at first glance appear to be frost-mantled shrubbery. In fact they are garbed in a thick dome of fur, unclear if of animal origin or grown of their own bodies. Only their eyes peering out through the musty mass."
     },
@@ -16,9 +17,21 @@
         "strength": 2,
         "speed": 2,
         "intellect": 7,
-        "endurance": 4
+        "endurance": 4,
+        "cunning": 3
       },
       "description": "Not officially recognised by the Wizards guild, mediaums are practitioners of what many consider to be common parlour tricks rather than magic. Reading fortunes and communing with the dead are the most common services being peddled. Their counsel is more frequently sought in less civilized parts of the realm."
+    },
+    {
+      "name": "Oleand Lemayr",
+      "stats": {
+        "strength": 5,
+        "speed": 6,
+        "intellect": 7,
+        "endurance": 5,
+        "cunning": 8
+      },
+      "description": "A mischievous rogue and rapscallion whose legendary exploits precede him. Also goes by 'Oleand Le Rouge' on account of his characteristic red undergarments, as well as 'The Dancing Daffodil' for reasons unknown."
     }
   ]
 }
