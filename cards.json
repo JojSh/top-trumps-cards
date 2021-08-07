@@ -43,6 +43,17 @@
         "cunning": 7
       },
       "description": "Equal parts hideous and heinous, hags delight in suffering, priding themselves on creating new and inventive ways to torment those in their 'care'. Believed to possess old, dark magic with the ability to disguise themselves, they are the bane of all heroic adventurers throughout the land."
+    },
+    {
+      "name": "The Infinibench",
+      "stats": {
+        "strength": 5,
+        "speed": 1,
+        "intellect": 5,
+        "endurance": 10,
+        "cunning": 3
+      },
+      "description": "The subject of many a folk tale. At first glance, the infinibench appears to be a simple piece of outdoor furniture. Those that sit on it however, are subject to severe time dilation, thinking years have passed after sitting down for only a few minutes. Many a man has been driven mad by the process. Rumours suggest the bench can currently be found in a local park in Molesleigh"
     }
   ]
 }
