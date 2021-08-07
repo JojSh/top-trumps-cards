@@ -43,6 +43,17 @@
         "cunning": 7
       },
       "description": "Equal parts hideous and heinous, hags delight in suffering, priding themselves on creating new and inventive ways to torment those in their 'care'. Believed to possess old, dark magic with the ability to disguise themselves, they are the bane of all heroic adventurers throughout the land."
+    },
+    {
+      "name": "Nelqu'in",
+      "stats": {
+        "strength": 3,
+        "speed": 6,
+        "intellect": 4,
+        "endurance": 3,
+        "cunning": 7
+      },
+      "description": "A semi-aquatic hairless primate more commonly referred to as “Beach Bandits” on account of the danger they pose to sailors, fishermen and coastal-dwelling folk. Carnivorous pack-hunters and ambush specialists, they utilise rudimentary weapons such as sharpened pikes and blowpipes. This distant cousin to the ancestral forebears of humanity diverged aeons ago, evolving their amphibious specialism. Though they nest on land in tidal coves, they are built for speed and agility in the water. With long, splayed feet, webbed hands and bowl-like eyes adapted to peer through and out from the surf."
     }
   ]
 }
