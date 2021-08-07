@@ -32,6 +32,17 @@
         "cunning": 8
       },
       "description": "A mischievous rogue and rapscallion whose legendary exploits precede him. Also goes by 'Oleand Le Rouge' on account of his characteristic red undergarments, as well as 'The Dancing Daffodil' for reasons unknown."
+    },
+    {
+      "name": "An Old Hag",
+      "stats": {
+        "strength": 1,
+        "speed": 2,
+        "intellect": 8,
+        "endurance": 2,
+        "cunning": 7
+      },
+      "description": "Equal parts hideous and heinous, hags delight in suffering, priding themselves on creating new and inventive ways to torment those in their 'care'. Believed to possess old, dark magic with the ability to disguise themselves, they are the bane of all heroic adventurers throughout the land."
     }
   ]
 }
