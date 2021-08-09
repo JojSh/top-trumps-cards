@@ -66,5 +66,16 @@
       },
       "description": "The subject of many a folk tale. At first glance, the infinibench appears to be a simple piece of outdoor furniture. Those that sit on it however, are subject to severe time dilation, thinking years have passed after sitting down for only a few minutes. Many a man has been driven mad by the process. Rumours suggest the bench can currently be found in a local park in Molesleigh"
     }
+    {
+      "name": "Blessed tincture of speed",
+      "stats": {
+        "strength": 0,
+        "speed": 11,
+        "intellect": 0,
+        "endurance": 0,
+        "cunning": 0
+      },
+      "description": "A blessed tincture crafted by the master potionsmith, Sir Jorjo “speedy” Martinian. Bestows impressive speed and heightened reactions to the imbiber. The tincture is rumoured to taste like a fine flagon of ale and causes a haziness and nausea once the effects wear off."
+    }
   ]
 }
